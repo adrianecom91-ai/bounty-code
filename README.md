@@ -11,6 +11,4 @@ A simple Python project for managing coding bounties.
 
 ## Run
 
-```bash
 python main.py
-... 
